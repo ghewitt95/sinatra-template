@@ -14,6 +14,7 @@ gem "sinatra-activerecord"
 
 gem "http"
 gem "dotenv"
+gem "minitest"
 
 group :development do
   gem "better_errors"
